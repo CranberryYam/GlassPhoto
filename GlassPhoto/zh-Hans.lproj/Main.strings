@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "Camera"; ObjectID = "1Ej-h4-zXz"; */
+"1Ej-h4-zXz.normalTitle" = "拍照";
+
+/* Class = "UIButton"; normalTitle = "Photos"; ObjectID = "9rq-bv-gJS"; */
+"9rq-bv-gJS.normalTitle" = "相册";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "D3V-de-tHe"; */
+"D3V-de-tHe.normalTitle" = "分享";
+
+/* Class = "UILabel"; text = "Welcom to GlassPhoto"; ObjectID = "wRf-6t-Hjq"; */
+"wRf-6t-Hjq.text" = "欢迎使用GlassPhoto";
